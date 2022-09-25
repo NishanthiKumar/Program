@@ -21,6 +21,8 @@ public class UseCar {
 			System.out.println(car2.price+" is highest");
 		}
 		
+		System.out.println("End of the program");
+		
 	}
 
 }
